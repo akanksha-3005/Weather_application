@@ -20,7 +20,7 @@ A simple weather application that fetches and displays current weather informati
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/weather-app.git
+    git clone https://github.com/akanksha-3005/weather-app.git
     ```
 
 2. Navigate to the project directory:
